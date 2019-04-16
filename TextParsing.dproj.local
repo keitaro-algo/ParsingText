@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.494,C:\Temp\Unit1.dfm=C:\Temp\uMain.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.494,C:\Temp\Unit1.pas=C:\Temp\uMain.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.681,C:\Temp\Unit1.dfm=C:\Users\macbook_retina\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.446,C:\Temp\Unit2.dfm=C:\Temp\uViewFrame.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.366,C:\Temp\Unit2.dfm=C:\Temp\uSettings.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.138,C:\Temp\uViewFrame.dfm=C:\Temp\Рисунки\uViewFrame.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.998,C:\Temp\uMain.dfm=C:\Temp\Рисунки\uMain.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.735,C:\Temp\uSettings.pas=C:\Temp\Рисунки\uSettings.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.681,C:\Temp\Unit1.pas=C:\Users\macbook_retina\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.735,C:\Temp\uSettings.dfm=C:\Temp\Рисунки\uSettings.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.510,=C:\Temp\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.198,=C:\Temp\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.445,C:\Temp\Unit2.pas=C:\Temp\uViewFrame.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.998,C:\Temp\uMain.pas=C:\Temp\Рисунки\uMain.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.366,C:\Temp\Unit2.pas=C:\Temp\uSettings.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.166,=C:\Users\macbook_retina\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.973,C:\Temp\Project1.dproj=C:\Users\macbook_retina\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.851,C:\Temp\TextParsing.dproj=C:\Temp\Рисунки\TextParsing.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.138,C:\Temp\uViewFrame.pas=C:\Temp\Рисунки\uViewFrame.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.415,C:\Temp\TextParsing.dproj=C:\Temp\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
